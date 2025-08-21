@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :vibe_verbs, VibeVerbs.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "bryan",
+  password: "",
   hostname: "localhost",
   database: "vibe_verbs_dev",
   stacktrace: true,
